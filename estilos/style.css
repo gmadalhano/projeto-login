@@ -89,10 +89,10 @@ div.field > input {
     font-size: .85em;
     height: 100%;
     width: calc(100% - 40px);
-    transform: translate(37px, -26.5px);
     border-radius: 7px;
     border: none;
     padding: 4px;
+    transform: translate(37px, -26.5px);
 }
 
 
